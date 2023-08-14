@@ -24,27 +24,27 @@ export default function Testimonials() {
       </div>
       <div className="testimonial">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-          asperiores eaque.
+        “I’m impressed with Travelo . They’re worth the money. It’s worth the investment.
         </p>
         <div className="info">
           <img src={avatarImage} alt="" />
           <div className="details">
-            <h4>Kishan Sheth</h4>
-            <span>CEO - Shashaan Web Solutions</span>
-          </div>
+            <h4>Jesse C.</h4>
+            <span></span>
+          </div>Marketing Manager,
+             Dry Guys Basement Systems
         </div>
       </div>
       <div className="testimonial">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-          asperiores eaque.
+        “I’m impressed with Travelo . They’re worth the money. It’s worth the investment.
         </p>
         <div className="info">
           <img src={avatarImage} alt="" />
           <div className="details">
-            <h4>Kishan Sheth</h4>
-            <span>CEO - Shashaan Web Solutions</span>
+            <h4>Jesse C.</h4>
+            <span>Marketing Manager,
+             Dry Guys Basement Systems</span>
           </div>
         </div>
       </div>
