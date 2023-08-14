@@ -15,9 +15,9 @@ export default function Services() {
     },
     {
       icon: service2,
-      title: "Covid Safe",
+      title: "Safety",
       subTitle:
-        "We have all the curated hotels that have all the precaution for a covid safe environment.",
+        "We have all the curated hotels that have all the precaution for a safe environment.",
     },
     {
       icon: service3,
