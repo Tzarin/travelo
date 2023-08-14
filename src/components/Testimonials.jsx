@@ -30,9 +30,9 @@ export default function Testimonials() {
           <img src={avatarImage} alt="" />
           <div className="details">
             <h4>Jesse C.</h4>
-            <span></span>
-          </div>Marketing Manager,
-             Dry Guys Basement Systems
+            <span>Marketing Manager,
+             Dry Guys Basement Systems</span>
+          </div>
         </div>
       </div>
       <div className="testimonial">
