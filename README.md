@@ -66,6 +66,21 @@ travelo/
 
 - [Creating a Top Navigation Bar](https://www.w3schools.com/howto/howto_js_topnav.asp) - Create a top navigation bar using JavaScript and CSS.
 
+## Screenshots
+
+Here's a screenshot of the Travelo app in action:
+[Screenshot 1](file:///Users/zarintasnim/Desktop/Screen%20Shot/Screen%20Shot%202023-08-14%20at%204.35.36%20AM.png)
+[Screenshot 2](file:///Users/zarintasnim/Desktop/Screen%20Shot/Screen%20Shot%202023-08-14%20at%204.35.54%20AM.png)
+[Screenshot 3](file:///Users/zarintasnim/Desktop/Screen%20Shot/Screen%20Shot%202023-08-14%20at%204.36.06%20AM.png)
+[Screenshot 4](file:///Users/zarintasnim/Desktop/Screen%20Shot/Screen%20Shot%202023-08-14%20at%204.36.15%20AM.png)
+
+
+## Live Demo
+
+Check out the live demo of the Travelo app [here](http://localhost:3000/#testimonials).
+
+
+
 
 
 
