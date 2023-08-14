@@ -11,7 +11,6 @@ export default function Hero() {
       <div className="content">
         <div className="title">
           <h1>TRAVEL TO EXPLORE</h1>
-          <button onClick>Explore Now</button>
           <p>
             
           </p>
