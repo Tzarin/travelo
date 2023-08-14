@@ -36,6 +36,7 @@ travelo/
 │   ├── App.js              # Main application component
 │   ├── index.css           # Global CSS styles
 │   ├── index.js            # Entry point of the app
+│   ├── assets              # All img
 │   ├── components/
 │   │   ├── Navbar.jsx      # Navigation bar component
 │   │   ├── Hero.jsx        # Hero section component
@@ -80,8 +81,8 @@ Here's a screenshot of the Travelo app in action:
 Check out the live demo of the Travelo app [here](http://localhost:3000/#testimonials).
 
 
-
-
+For README.md editing 
+https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md
 
 
 
